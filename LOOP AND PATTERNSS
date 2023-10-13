@@ -2,7 +2,7 @@ ANS:1 Print N stars
 public class Solution {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+       
        Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
       for(int i=1;i<=n;i++)
@@ -16,7 +16,7 @@ ANS:2 Print a matrix of stars
 public class Solution {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+       
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         int m=sc.nextInt();
@@ -35,7 +35,7 @@ ANS:3 Stair Pattern 1
 public class Solution {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+      
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         for(int i=1;i<=n;i++)
@@ -53,7 +53,7 @@ ANS:4 Two Line Star Pattern
 public class Solution {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+       
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         for(int i=1;i<=n;i++)
@@ -79,7 +79,7 @@ ANS:5 Leading spaces pyramid
 public class Solution {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+     
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         for(int i=1;i<=n;i++)
@@ -102,7 +102,7 @@ ANS:6 From top to down
 public class Solution {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+       
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         for(int i=1;i<=n;i++)
@@ -116,7 +116,7 @@ ANS:7 Odd Game 1
 public class Solution {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+      
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         for(int i=1;i<=n;i++)
@@ -134,7 +134,7 @@ ANS:8 Summation Game
 public class Solution {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+       
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         int sum=0;
@@ -150,7 +150,7 @@ ANS:9 From down to top
 public class Solution {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+       
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         for(int i=n;i>=1;i--)
@@ -164,7 +164,7 @@ ANS:10 Multiplication Table 52
 public class Solution {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+       
        Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         for(int i=1;i<=10;i++)
@@ -179,7 +179,7 @@ ANS:11 Easy Power
 public class Solution {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+        
         Scanner sc=new Scanner(System.in);
         int a=sc.nextInt();
         int b=sc.nextInt();
@@ -193,7 +193,7 @@ ANS:12 Count factor
 public class Solution {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+        
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         int count=0;
@@ -212,7 +212,7 @@ ANS:13 is it Prime? 2
 public class Solution {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+    
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         int count=0;
@@ -240,7 +240,7 @@ ANS:14 Is It Perfect? 1
 public class Solution {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+      
         Scanner sc=new Scanner(System.in);
           int T=sc.nextInt();
        for(int i=1;i<=T;i++)
@@ -283,7 +283,7 @@ public class Solution {
         return rev;
     }
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+       
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         int rev=0;
@@ -295,7 +295,7 @@ ANS:16 Armstrong Numbers!
 public class Solution {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+
         Scanner sc=new Scanner(System.in);
         int N=sc.nextInt();
         for(int i=1;i<=N;i++){
@@ -322,7 +322,7 @@ ANS:17 Print the Primes!
 public class Solution {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+       
         Scanner sc=new Scanner(System.in);
         int N=sc.nextInt();
         for(int i=1;i<=N;i++)
@@ -351,7 +351,7 @@ ANS:18 Palindromic Integer 2
 public class Solution {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+       
         Scanner sc=new Scanner(System.in);
         int num=sc.nextInt();
         int z=num;
@@ -377,8 +377,7 @@ ANS:19 Inverted Half Pyramid 1
 public class Solution {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
-        Scanner sc=new Scanner(System.in);
+      Scanner sc=new Scanner(System.in);
         int N=sc.nextInt();
         for(int i=1;i<=N;i++)
         {
@@ -395,7 +394,7 @@ ANS:20 Leading spaces inverted pyramid
 public class Solution {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+     
         Scanner sc=new Scanner(System.in);
         int num=sc.nextInt();
         for(int i=1;i<=num;i++)
@@ -417,7 +416,7 @@ ANS:21 Star Pattern II
 public class Solution {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+     
         Scanner sc=new Scanner(System.in);
         int row=sc.nextInt();
         for(int i=1;i<=row;i++)
@@ -444,7 +443,7 @@ ANS:22 Photo Frame Pattern
 public class Solution {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+    
         Scanner sc=new Scanner(System.in);
         int row=sc.nextInt();
         for(int i=1;i<=row;i++)
